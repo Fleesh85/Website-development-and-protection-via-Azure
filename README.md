@@ -1,4 +1,4 @@
-<h1>JWebsite development and protection via Azure</h1>
+<h1>Website development and protection via Azure</h1>
 
 https://feliciafernresume.azurewebsites.net/ (Link no longer valid as subscription has expired)
 
