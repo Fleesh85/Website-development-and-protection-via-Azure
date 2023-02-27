@@ -4,7 +4,7 @@ https://feliciafernresume.azurewebsites.net/ (Link no longer valid as subscripti
 
 <h2>Description</h2>
 
-I used Microsoft Azure to build and host my own “cyber-blog” web application. I secured it with a SSL certificate, and applied Azure’s security features to protect it. 
+In this project I used Microsoft Azure to build and host my own “cyber-blog” web application. I secured it with a SSL certificate, and applied Azure’s security features to protect it. 
 
 
 <b>Our requirements included:</b>
