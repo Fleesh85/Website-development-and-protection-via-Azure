@@ -59,24 +59,33 @@ I used Microsoft Azure to build and host my own “cyber-blog” web application
 <img src="https://i.imgur.com/W2Tci8L.png" height="80%" width="80%" alt="Azure Webpage"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Azure Webpage"/>
+Questions/Details: <br/>
+<img src="https://i.imgur.com/yEymcWg.png" height="80%" width="80%" alt="Azure Webpage"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/swaBFnP.png" height="80%" width="80%" alt="Azure Website"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="http://i.imgur.com/FWRbgxH.png" height="80%" width="80%" alt="Azure Website"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Qr3r0FE.png" height="80%" width="80%" alt="Azure Website"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/IhiTEb0.png" height="80%" width="80%" alt="Azure Website"/>
+ <br />
+ <br />
+ 
+<img src="https://i.imgur.com/MJaIcks.png" height="80%" width="80%" alt="Azure Webpage"/>
+ <br />
+ <br />
+ 
+ <img src="https://i.imgur.com/IhiTEb0.png" height="80%" width="80%" alt="Azure Website"/>
+
 </p>
 
 <!--
