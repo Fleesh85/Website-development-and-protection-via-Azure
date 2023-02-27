@@ -51,16 +51,16 @@ I used Microsoft Azure to build and host my own “cyber-blog” web application
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/8Y97aJE.png" height="80%" width="80%" alt="Azure webpage"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/W2Tci8L.png" height="80%" width="80%" alt="Azure Webpage"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Azure Webpage"/>
 <br />
 <br />
 Confirm your selection:  <br/>
