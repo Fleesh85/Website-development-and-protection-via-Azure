@@ -84,7 +84,7 @@ Questions/Details: <br/>
  <br />
  <br />
  
- <img src="https://i.imgur.com/IhiTEb0.png" height="80%" width="80%" alt="Azure Website"/>
+ <img src="https://i.imgur.com/R5Mb4TH.png" height="80%" width="80%" alt="Azure Website"/>
 
 </p>
 
